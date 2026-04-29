@@ -13,7 +13,7 @@ A Spring Boot-based integration service designed to monitor a directory, process
 
 ## Technical Stack
 
-*   **Java 25**
+*   **Java 21**
 *   **Spring Boot 3.5.14**
 *   **Spring Integration** (File Support)
 *   **JUnit 5 & Mockito** (Testing)
